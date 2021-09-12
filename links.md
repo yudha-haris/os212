@@ -1,5 +1,6 @@
 ---
 layout: "layout"
+permalink: /LINKS/
 ---
 
 # Operating Systems 2021-2 (OS212)
