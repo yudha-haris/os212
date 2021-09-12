@@ -5,11 +5,9 @@ permalink: /LINKS/
 
 # Operating Systems 2021-2 (OS212)
 
-### LINKS
+## Links
 Some links that I think helpful to Operating Systems course
 <br><br>
-## List of Contents
-
 - [OS.VLSM.ORG](https://os.vlsm.org/)<br>
 The main guide for Operating System course. Everything All the basics you need in an Operating Systems course are available here. 
 Starting from learning materials, syllabus, templates, and assignments are here. Don't forget to check regularly
