@@ -5,9 +5,9 @@ layout: "layout"
 # Operating Systems 2021-2 (OS212)
 
 Assalamu'alaykum, welcome to my github page :)
+<br>
 This page is used for publishing log and anything **Operating Systems** course related
 <br><br>
-
 ## List of Contents
 
 - [my log](https://yudha-haris.github.io/os212/TXT/mylog.txt)
