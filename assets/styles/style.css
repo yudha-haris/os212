@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+.plainclass {
+  margin: 0;
+  color: #1a1a1a;
+  background: #eeeeee;
+}
+
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 1.75rem 0 1.75rem 1.75rem;
+  position: fixed;
+  z-index: 10;
+  font-size: 1rem;
+  background-color: #eeeeee;
+  filter: drop-shadow(0 2mm 0.75rem #bebebe);
+}
+
+.navbar .left-navbar .menu a,
+.navbar .right-navbar .menu a {
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  color: #1a1a1a;
+  font-weight: 400;
+  margin: 1rem;
+}
+
+.navbar .left-navbar .menu a:hover,
+.navbar .right-navbar .menu a:hover {
+  font-weight: 600;
+}
+
+.navbar .right-navbar,
+.navbar .left-navbar {
+  display: flex;
+}
+
+.navbar .right-navbar .menu {
+  width: 190px;
+  text-align: center;
+}
+
+.navbar .left-navbar .menu {
+  width: 80px;
+  text-align: center;
+}
+
+.container {
+  padding-top: 150px;
+  padding-bottom: 250px;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.content p img {
+  width: 900px;
+}
+
+.content p {
+  margin-top: 3rem;
+  max-width: 900px;
+}
+
+.content p,
+.content li,
+.content {
+  font-size: 1.5rem;
+}
+
+.content h1 {
+  width: 900px;
+  text-align: center;
+}
+
+.content a {
+  text-decoration: none;
+  color: rgb(0, 89, 206);
+}
+
+.footer {
+  color: #eeeeee;
+  font-family: "Poppins", sans-serif;
+  background-color: #1a1a1a;
+  text-align: center;
+  padding: 1.75rem 0 1.75rem 0;
+}
+
+.footer a {
+  color: rgb(238, 213, 73);
+  text-decoration: none;
+}
