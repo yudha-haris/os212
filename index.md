@@ -12,4 +12,3 @@ This page is used for publishing log and anything **Operating Systems** course r
 
 - [my log](https://yudha-haris.github.io/os212/TXT/mylog.txt)
 - [OS212 Repository](https://github.com/yudha-haris/os212/)
-- [LINKS](https://yudha-haris.github.io/os212/LINKS/)
