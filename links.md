@@ -28,3 +28,7 @@ The page you will always go to when using Vi Editor. Don't forget to bookmark th
 - [REGEX HELPER](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)<br>
 This page contains solid tutorial about RegEx (Regular Expressions). Not just cheatsheet, but also the example so you will not confused how to use it.
 <br>
+
+- [OS-BOOK](https://www.os-book.com/OS10/slide-dir/)<br>
+OS-BOOK book which has been divided into each chapter in ppt form. Very useful to support learning OS courses.
+<br>
