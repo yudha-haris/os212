@@ -37,3 +37,6 @@ OS-BOOK book which has been divided into each chapter in ppt form. Very useful t
 Everything about programming common's problem. When you do a google search for troubleshooting your programming problems, you're bound to end up on stackoverflow
 <br>
 
+- [Basic Bash] (https://www.hostinger.co.id/tutorial/bash-script/)<br>
+Basic bash script tutorial in Bahasa Indonesia with example. Very useful in weekly assignments.
+
