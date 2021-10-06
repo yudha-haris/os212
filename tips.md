@@ -2,9 +2,9 @@
 layout: "layout"
 permalink: /TIPS/
 ---
-
-# TIPS
+# Operating Systems 2021-2 (OS212)
+## TIPS
 
 1. Don't Skip Any Step<br>
-Read the commands carefully in order one by one. Don't miss a single command line. 
-Get in the habit of writing it yourself to understand the meaning of the command.
+Read the commands carefully in order, one by one. Don't miss any single command line.<br> 
+Get in the habit of writing the command / code by yourself to understand the meaning of the command.
