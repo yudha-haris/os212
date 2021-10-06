@@ -40,3 +40,7 @@ Everything about programming common's problem. When you do a google search for t
 - [Basic Bash](https://www.hostinger.co.id/tutorial/bash-script/)<br>
 Basic bash script tutorial in Bahasa Indonesia with example. Very useful in weekly assignments.
 
+- [Basic C Syntax](https://www.petanikode.com/c-syntak/)<br>
+Basic C tutorial in Bahasa Indonesia with example. Useful if you still confused or not familiar with C syntax
+
+
