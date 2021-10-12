@@ -5,7 +5,7 @@ html,body{
   width: 100%;
   max-width: 1000px;
   margin: 0 auto;
-  background: #CAC6C6;
+  background-image: linear-gradient(to top, #c2c2c2, #bebdc4, #bab8c6, #b6b3c7, #b2aec9, #b2aeca, #b1aecb, #b1aecc, #b5b3cc, #b9b8cc, #bdbdcc, #c2c2cc);
 }
 
 .plainclass {
