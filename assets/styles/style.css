@@ -7,19 +7,18 @@
 }
 
 .navbar {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
+  width: 90%;
+  max-width: 1000px;
+  margin: 20px auto;
+  border-radius: 20px;
+  overflow: hidden;
   padding: 1.75rem 0 1.75rem 1.75rem;
-  position: fixed;
-  z-index: 10;
   font-size: 1rem;
   background-color: #eeeeee;
   filter: drop-shadow(0 2mm 0.75rem #bebebe);
 }
 
-.navbar .left-navbar .menu a,
-.navbar .right-navbar .menu a {
+.navbar .left-navbar .menu a {
   text-decoration: none;
   font-family: "Poppins", sans-serif;
   color: #1a1a1a;
@@ -27,19 +26,12 @@
   margin: 1rem;
 }
 
-.navbar .left-navbar .menu a:hover,
-.navbar .right-navbar .menu a:hover {
+.navbar .left-navbar .menu a:hover {
   font-weight: 600;
 }
 
-.navbar .right-navbar,
 .navbar .left-navbar {
   display: flex;
-}
-
-.navbar .right-navbar .menu {
-  width: 190px;
-  text-align: center;
 }
 
 .navbar .left-navbar .menu {
@@ -54,6 +46,9 @@
   display: flex;
   justify-content: center;
   width: 100%;
+  max-width: 1000px;
+  width: 90%;
+  margin: 0 auto;
 }
 
 .content p img {
@@ -82,14 +77,17 @@
 }
 
 .footer {
-  color: #eeeeee;
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  color: #000000;
   font-family: "Poppins", sans-serif;
-  background-color: #1a1a1a;
+  border-top: 2px solid #1a1a1a;
   text-align: center;
   padding: 1.75rem 0 1.75rem 0;
 }
 
 .footer a {
-  color: rgb(238, 213, 73);
+  color: rgb(56, 9, 46);
   text-decoration: none;
 }
