@@ -69,7 +69,9 @@
 }
 
 .content h1 {
-  width: 900px;
+  max-width: 1000px;
+  width: 90%;
+  margin: 0 auto;
   text-align: center;
 }
 
