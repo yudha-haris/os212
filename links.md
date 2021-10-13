@@ -43,4 +43,6 @@ Basic bash script tutorial in Bahasa Indonesia with example. Very useful in week
 - [Basic C Syntax](https://www.petanikode.com/c-syntak/)<br>
 Basic C tutorial in Bahasa Indonesia with example. Useful if you still confused or not familiar with C syntax
 
+- [Process in OS](https://afteracademy.com/blog/what-is-a-process-in-operating-system-and-what-are-the-different-states-of-a-process#)<br>
+Another learning resources to learn about process in operating systems.
 

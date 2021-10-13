@@ -8,3 +8,7 @@ permalink: /TIPS/
 1. Don't Skip Any Step<br>
 Read the commands carefully in order, one by one. Don't miss any single command line.<br> 
 Get in the habit of writing the command / code by yourself to understand the meaning of the command.
+
+2. Do Demos<br>
+Do the demo to understand more about the material, most likely it will be useful on the next week quiz
+
