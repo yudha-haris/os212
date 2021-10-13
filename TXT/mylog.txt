@@ -62,3 +62,11 @@ ZCZC W05 15 L16 Assignment #06
 ZCZC W05 10 L17 Assignment #07
 ZCZC W05 10 L18 Assignment #08
 ZCZC W05 30 L19 Assignment #09
+ZCZC W06 60 L11 Assignment #01
+ZCZC W06 30 L12 Assignment #02
+ZCZC W06 30 L13 Assignment #03
+ZCZC W06 60 L14 Assignment #04
+ZCZC W06 10 L15 Assignment #05
+ZCZC W06 10 L16 Assignment #06
+ZCZC W06 10 L17 Assignment #07
+ZCZC W06 10 L18 Assignment #08
