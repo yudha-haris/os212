@@ -71,3 +71,5 @@ ZCZC W06 10 L16 Assignment #06
 ZCZC W06 10 L17 Assignment #07
 ZCZC W06 10 L18 Assignment #08
 ZCZC W06 10 L19 Assignment #09
+ZCZC W06 60 L01 SCELE/Discord related
+ZCZC W06 60 L06 References/Books/Documents/GSGS related
