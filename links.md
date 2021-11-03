@@ -46,3 +46,7 @@ Basic C tutorial in Bahasa Indonesia with example. Useful if you still confused 
 - [Process in OS](https://afteracademy.com/blog/what-is-a-process-in-operating-system-and-what-are-the-different-states-of-a-process#)<br>
 Another learning resources to learn about process in operating systems.
 
+- [Shared Memory](https://www.boost.org/doc/libs/1_44_0/doc/html/interprocess/sharedmemorybetweenprocesses.html)<br>
+Brief explanation about shared memory. Hope it helps understanding shared memory
+<br>
+

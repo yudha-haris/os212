@@ -73,3 +73,13 @@ ZCZC W06 10 L18 Assignment #08
 ZCZC W06 10 L19 Assignment #09
 ZCZC W06 60 L01 SCELE/Discord related
 ZCZC W06 60 L06 References/Books/Documents/GSGS related
+ZCZC W07 60 L11 Assignment #01
+ZCZC W07 30 L12 Assignment #02
+ZCZC W07 30 L13 Assignment #03
+ZCZC W07 60 L14 Assignment #04
+ZCZC W07 30 L15 Assignment #05
+ZCZC W07 30 L16 Assignment #06
+ZCZC W07 15 L17 Assignment #07
+ZCZC W07 15 L18 Assignment #08
+ZCZC W07 10 L19 Assignment #08
+ZCZC W07 60 L02 ZOOM meetings related

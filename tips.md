@@ -12,3 +12,7 @@ Get in the habit of writing the command / code by yourself to understand the mea
 2. Do Demos<br>
 Do the demo to understand more about the material, most likely it will be useful on the next week quiz
 
+3. Do All The Previous MidTerm Problem<br>
+Complete all available practice questions. Especially the previous midterm problem because the next quiz changes a bit from the exercises
+
+
