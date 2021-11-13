@@ -15,4 +15,5 @@ Do the demo to understand more about the material, most likely it will be useful
 3. Do All The Previous MidTerm Problem<br>
 Complete all available practice questions. Especially the previous midterm problem because the next quiz changes a bit from the exercises
 
-
+4. Read Linux From Scratch Guide
+Make sure you really read what's in the Linux From Scratch guide, so you don't get confused or have no idea about doing the assignment

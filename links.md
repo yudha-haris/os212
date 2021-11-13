@@ -50,3 +50,6 @@ Another learning resources to learn about process in operating systems.
 Brief explanation about shared memory. Hope it helps understanding shared memory
 <br>
 
+-[Linux From Scratch Guide v11.0](https://linuxfromscratch.org/lfs/view/11.0)<br>
+The main link for Assignment Week08 after os.vlsm.org. Make sure you really read what's in the link, so you don't get confused about doing the assignment<br>
+
