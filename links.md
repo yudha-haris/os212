@@ -53,3 +53,7 @@ Brief explanation about shared memory. Hope it helps understanding shared memory
 -[Linux From Scratch Guide v11.0](https://linuxfromscratch.org/lfs/view/11.0)<br>
 The main link for Assignment Week08 after os.vlsm.org. Make sure you really read what's in the link, so you don't get confused about doing the assignment<br>
 
+-[Linux From Scratch Guide Video Tutorial](https://youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
+Very helpful video playlist in doing week 9 assignments
+<br>
+
