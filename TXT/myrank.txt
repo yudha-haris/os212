@@ -23,3 +23,6 @@ ZCZC W08 dimas-id
 ZCZC W09 fawzakin
 ZCZC W09 elghifari
 ZCZC W09 farelmapm
+ZCZC W10 fawzakin
+ZCZC W10 Feibs
+ZCZC W10 farelmd
